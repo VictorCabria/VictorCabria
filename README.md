@@ -38,19 +38,9 @@ alto rendimiento.
 
 ## Contacto
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150">
-  <a href="https://www.linkedin.com/in/victorcabria/">Victor Cabria</a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="150">
-  <a href="https://github.com/VictorCabria">Victor Cabria</a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150">
-  <a href="mailto:victorjosecabria11@gmail.com">victorjosecabria11@gmail.com</a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" width="150">
-  <a href="./Curriculum-de-Victor-Cabria-V3.pdf">Victor Cabria CV</a>
-</p>
+| Contacto   | Detalles                          |                 
+|------------|-----------------------------------|
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [Victor Cabria](https://www.linkedin.com/in/victorcabria/) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | [Victor Cabria](https://github.com/VictorCabria) |
+| ![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [victorjosecabria11@gmail.com](mailto:victorjosecabria11@gmail.com) |
+| ![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) | [Victor Cabria CV](./Curriculum-de-Victor-Cabria-V3.pdf) |

@@ -4,7 +4,7 @@
 
 ## Sobre Mí
 
-Soy un desarrollador de aplicaciones móviles con 2 años de experiencia 
+Soy un desarrollador de aplicaciones móviles con experiencia 
 en el desarrollo de aplicaciones multiplataforma utilizando Dart y el 
 framework Flutter. Durante mi trayectoria profesional, he trabajado en 
 diversos proyectos donde he utilizado Firebase como plataforma de 
@@ -33,6 +33,7 @@ alto rendimiento.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
@@ -44,3 +45,8 @@ alto rendimiento.
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | [Victor Cabria](https://github.com/VictorCabria) |
 | ![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [victorjosecabria11@gmail.com](mailto:victorjosecabria11@gmail.com) |
 | ![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) | [Victor Cabria CV](./Curriculum-de-Victor-Cabria-V3.pdf) |
+
+
+---
+
+¡Gracias por visitar mi perfil!  No dudes en contactarme si tienes alguna propuesta o pregunta que hacerme, les deseo suerte.

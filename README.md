@@ -1,8 +1,8 @@
-#Buenas! Soy Victor Cabria👋
+# Buenas! Soy Victor Cabria👋
 
 ![Banner](./BannerVictor.png)
 
-##Sobre Mí
+## Sobre Mí
 
 Soy un desarrollador de aplicaciones móviles con 2 años de experiencia 
 en el desarrollo de aplicaciones multiplataforma utilizando Dart y el 
@@ -18,6 +18,7 @@ entrega de productos de alta calidad, orientados al usuario y con un
 alto rendimiento
 
 - **Lenguajes:**
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -33,7 +34,7 @@ alto rendimiento
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-##Contacto
+## Contacto
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white): [Victor Cabria](https://www.linkedin.com/in/victorcabria/)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white): [Victor Cabria](https://github.com/VictorCabria)

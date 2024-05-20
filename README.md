@@ -38,7 +38,4 @@ alto rendimiento.
 
 ## Contacto
 
-|  Contacto  |  Detalles                         |
-|------------|-----------------------------------|
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [Victor Cabria](https://www.linkedin.com/in/victorcabria/) |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | [Victor Cabria](https://github.com/VictorCabria) |
+|- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white): [Victor Cabria](https://www.linkedin.com/in/victorcabria/)
